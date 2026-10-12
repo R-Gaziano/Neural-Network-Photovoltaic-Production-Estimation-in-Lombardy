@@ -1,0 +1,14 @@
+# configs/training_model_config.yaml
+
+missing_values:
+  variogram_model: "exponential"
+
+feature_engineering:
+  PCA_components: 20
+
+training:
+  learning_rate: 0.0005
+  epochs: 1500
+
+model:
+  hidden_size: 24
