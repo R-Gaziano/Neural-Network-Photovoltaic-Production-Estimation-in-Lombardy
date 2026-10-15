@@ -57,6 +57,16 @@ poetry install
 
 ```
 
+**Dataset for training**
+
+* The dataset for training is available on [Kaggle](https://www.kaggle.com/datasets/robgaz/photovoltaic-and-sensors-data-lombardy).
+* Place it on:
+
+```
+./Data
+
+```
+
 ## Usage
 
 **1. Train the Model**
